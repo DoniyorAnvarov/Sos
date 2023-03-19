@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'BebasNeue-Regular';
+    src: url(../fonts/BebasNeue/BebasNeue-Regular.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'OpenSans-Regular';
+    src: url(../fonts/OpenSans/OpenSans-Regular.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'OpenSans-Bold';
+    src: url(../fonts/OpenSans/OpenSans-Bold.ttf);
+    font-weight: 700;
+}
